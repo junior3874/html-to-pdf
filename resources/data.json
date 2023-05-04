@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Erick Wendel",
+		"profession": "Node.js Instructor",
+		"email": "ei@dude.com",
+		"phone": "+447795001178",
+		"website": "cursos.erickwendel.com",
+		"location": "São Paulo, SP"
+	},
+	{
+		"name": "Gago",
+		"profession": "Node.js Instructor",
+		"email": "ei@dude.com",
+		"phone": "+447795001178",
+		"website": "cursos.erickwendel.com",
+		"location": "São Bento, SP"
+	},
+	{
+		"name": "Well",
+		"profession": "Node.js Instructor",
+		"email": "ei@dude.com",
+		"phone": "+447795001178",
+		"website": "cursos.erickwendel.com",
+		"location": "Itaqua, SP"
+	}
+]
