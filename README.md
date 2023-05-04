@@ -1,6 +1,6 @@
 # business-card-template
 
-Go to - [https://erickwendel.github.io/business-card-template/index.html](https://erickwendel.github.io/business-card-template/index.html)
+Go to - [https://junior3874.github.io/business-card-template/index.html](https://erickwendel.github.io/business-card-template/index.html)
 
 Example of QueryString:
 
