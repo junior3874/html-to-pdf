@@ -1,0 +1,13 @@
+{
+	"name": "src",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"dependencies": {
+		"puppeteer": "^20.1.0",
+		"uuid": "^9.0.0"
+	}
+}
